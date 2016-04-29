@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="30c3b5fe-efa3-4395-b1ee-f91efc0125c5" 
+        solutionId="30c3b5fe-efa3-4395-b1ee-f91efc0125c5" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ManyWho"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="fb5a8db6-b6c6-40a8-b322-c6423ee09c97" />
+  </features>
+</package>
